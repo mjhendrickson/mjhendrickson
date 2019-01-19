@@ -11,7 +11,7 @@ output: html_document
 
 **Hendrickson, M.J.** (2014, May 27). *US Privacy Laws & the Prospects of Updating Them.* Presented to the Gartner Privacy Research Community. [link]
 
-Hendrickson. M.J. (2014, April 16). *The Digital Expectation of Privacy: Recommendations and Compromises to Updating Existing Privacy Law.* Doctoral thesis defense presented to the public. [link]
+**Hendrickson. M.J.** (2014, April 16). *The Digital Expectation of Privacy: Recommendations and Compromises to Updating Existing Privacy Law.* Doctoral thesis defense presented to the public. [link]
 
 **Hendrickson, M.J.** (2013, November 7). Invited Keynote Address: *Lighting the Path to Action: Realizing the Power of Storytelling.* Presented at the Mid-America Association for Institutional Research’s Annual Conference. Kansas City, MO. [link](http://www.slideshare.net/mjhendrickson/midair-2013-keynote-lighting-the-path-to-action-st)
 
