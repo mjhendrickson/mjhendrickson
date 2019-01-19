@@ -1,0 +1,23 @@
+---
+title: "education"
+author: "Matthew Hendrickson"
+date: "January 19, 2019"
+output: html_document
+---
+
+# Education
+
+**Doctorate, Law and Policy**
+Northeastern University
+Boston MA - 2014
+*Thesis: The Digital Expectation of Privacy: Recommendations and Compromises to Update Existing Privacy Law*
+
+**Master of Arts, Cognitive and Social Processes**
+**Graduate Certification, Institutional Research**
+**Graduate Certification, Business Essentials for Professionals**
+Ball State University
+Muncie IN - 2007
+
+**Bachelor of Arts, Psychology, Music minor**
+Illinois Wesleyan University
+Bloomington IL - 2005

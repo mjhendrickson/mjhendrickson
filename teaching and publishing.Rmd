@@ -1,0 +1,14 @@
+---
+title: "Teaching and Publishing"
+author: "Matthew Hendrickson"
+date: "January 19, 2019"
+output: html_document
+---
+
+# Teaching
+
+*EDU 6347: Introduction to Data Mining in Education (through Northeastern University)*; Developed the required course for MED. and Graduate Certificate students. Utilized the CRISP-DM research methodology to teach data mining. Instructed the students on a term-long data mining project that was included in their MED. digital professional portfolio.
+
+# Publication
+
+Anderson, J., Bongsu, R., Clint., Coughlin, M.A., C., Dutta, S., Egypt, K., Giambra, L., **Hendrickson, M.**, Kumar, T., L’Orange, H., Luan, J., Maxwell, C., Moore, M., Schneider, K., Sujitparapitaya, S., Sullivan, J., Thompson, K., Verma, N., Wolf, B. (2010, October). *What’s Next and How Will Institutional Researchers Keep Current?* Association for Institutional Research, Tallahassee, FL.
