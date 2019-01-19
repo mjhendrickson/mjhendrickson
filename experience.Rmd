@@ -5,46 +5,46 @@ title: "Experience"
 output: html_document
 ---
 
-**HelioCampus, Inc.**
-Bethesda MD
-*Principal Data Analyst*
-June 2016 - Present
+**HelioCampus, Inc.**  
+Bethesda MD  
+*Principal Data Analyst*  
+June 2016 - Present  
 * Lead, construct, and implement overhaul of Registrar data and KPI reporting
 * Manage all data requests related to returning students and academic affairs
 * Collaborate with and advise senior leadership on strategic initiatives and policies
 * Determine and construct optimal technology and analytics solutions to drive and monitor strategic opportunities
 * Facilitate a data-driven approach to decision making
 
-**Self-Employed**
-Bowie MD         
-*Research & Analytics Consultant*
-February 2012 - Present
+**Self-Employed**  
+Bowie MD  
+*Research & Analytics Consultant*  
+February 2012 - Present  
 * Building reporting pipelines and analytics solutions for a major academic publisher
 * Coach and mentor doctoral students on research, analytics, and doctoral defense
 * Teach statistical interpretation of analytics results
 
-**Northeastern University**
-Boston MA
-**D’Amore-McKim School of Business**
-*Director, Marketing Analytics and Research*
-August 2014 - June 2016
+**Northeastern University**  
+Boston MA  
+**D’Amore-McKim School of Business**  
+*Director, Marketing Analytics and Research*  
+August 2014 - June 2016  
 * Established and developed the Marketing Analytics and Research function
 * Advanced and scaled data use, ad-hoc analysis, and analytics to inform strategic decision making
 * Created efficiencies in marketing efforts through data management, data mining, segmentation, SEO, paid search campaign strategy, and analysis of the marketing and recruitment funnel
 * Championed adoption of Marketo and Salesforce within the marketing and sales processes
 * Continually tested and improved data collection methods and channels
 
-**College of Professional Studies**
-*Lecturer – Master of Education in Learning Analytics*
-April 2016 - July 2016
+**College of Professional Studies**  
+*Lecturer – Master of Education in Learning Analytics*  
+April 2016 - July 2016  
 * Developed and taught the new graduate course Introduction to Data Mining in Education
 * Taught the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology
 * Instructed students on data selection, importing, cleaning, exploration, validation, transformation, modeling, and analysis, as well as evaluation and deployment of models
 * Guided students through a hands-on digital portfolio project
 
-**College of Professional Studies**
-*Associate Director - Strategic Enrollment Research*
-June 2011 - August 2014
+**College of Professional Studies**  
+*Associate Director - Strategic Enrollment Research*  
+June 2011 - August 2014  
 * Conceptualized and completed a multi-year customer retention project
 * Developed a report suite for senior leadership on retention and budget planning
 * Implemented new survey software to centralize and secure the surveying function
@@ -52,10 +52,10 @@ June 2011 - August 2014
 * Routinely served and lead institutional improvement committees
 * Identified data needs, inconsistencies, and future data collection targets
 
-**Bentley University**
-Waltham MA
-*Research Analyst & Senior Institutional Research Analyst*
-June 2007 - June 2011
+**Bentley University**  
+Waltham MA  
+*Research Analyst & Senior Institutional Research Analyst*  
+June 2007 - June 2011  
 * Lead numerous projects to inform both institutional and divisional strategic planning
 * Restructured the financial aid packaging process, thereby increasing tuition revenue and creating additional scholarships for students
 * Developed and managed the work study program within the office
