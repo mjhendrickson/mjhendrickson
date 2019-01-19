@@ -7,7 +7,7 @@ output: html_document
    
 
 
-## HelioCampus, Inc.  
+### HelioCampus, Inc.  
 Bethesda MD  
 **Principal Data Analyst**  
 June 2016 - Present  
@@ -20,7 +20,7 @@ June 2016 - Present
    
 
 
-## Self-Employed  
+### Self-Employed  
 Bowie MD  
 **Research & Analytics Consultant**  
 February 2012 - Present  
@@ -31,12 +31,12 @@ February 2012 - Present
    
 
 
-## Northeastern University  
+### Northeastern University  
 Boston MA  
    
 
 
-### D’Amore-McKim School of Business   
+#### D’Amore-McKim School of Business   
 **Director, Marketing Analytics and Research**  
 August 2014 - June 2016  
 
@@ -48,7 +48,7 @@ August 2014 - June 2016
    
 
 
-### College of Professional Studies  
+#### College of Professional Studies  
 **Lecturer – Master of Education in Learning Analytics**  
 April 2016 - July 2016  
 
@@ -59,7 +59,7 @@ April 2016 - July 2016
    
 
 
-### College of Professional Studies  
+#### College of Professional Studies  
 **Associate Director - Strategic Enrollment Research**  
 June 2011 - August 2014  
 
