@@ -1,11 +1,9 @@
 ---
-title: "education"
-author: "Matthew Hendrickson"
-date: "January 19, 2019"
+title: "Education"
+# author: "Matthew Hendrickson"
+# date: "January 19, 2019"
 output: html_document
 ---
-
-# Education
 
 **Doctorate, Law and Policy**
 Northeastern University

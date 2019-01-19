@@ -1,11 +1,9 @@
 ---
-title: "Talks"
-author: "Matthew Hendrickson"
-date: "January 19, 2019"
+title: "Speaking and Presentation Engagements"
+# author: "Matthew Hendrickson"
+# date: "January 19, 2019"
 output: html_document
 ---
-
-# Speaking and Presentation Engagements
 
 **Hendrickson, M.J.** (2018, December 8). *Learning R by Doing.* Presented at the SatRdays DC Conference. Washington, DC. [link](http://bit.ly/satRday2018mh)
 

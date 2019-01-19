@@ -1,13 +1,13 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  # title: "My Website"
   left:
     - text: "Home"
       href: index.html
     - text: "Talks"
       href: talks.html
     - text: "Teaching and Publishing"
-      href: teaching and publishing.html
+      href: teaching_publishing.html
     - text: "Experience"
       href: experience.html
     - text: "Education"

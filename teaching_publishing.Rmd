@@ -1,7 +1,7 @@
 ---
 title: "Teaching and Publishing"
-author: "Matthew Hendrickson"
-date: "January 19, 2019"
+# author: "Matthew Hendrickson"
+# date: "January 19, 2019"
 output: html_document
 ---
 

@@ -1,11 +1,9 @@
 ---
-title: "experience"
-author: "Matthew Hendrickson"
-date: "January 19, 2019"
+title: "Experience"
+# author: "Matthew Hendrickson"
+# date: "January 19, 2019"
 output: html_document
 ---
-
-# Experience
 
 **HelioCampus, Inc.**
 Bethesda MD
