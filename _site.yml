@@ -4,10 +4,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Talks"
       href: talks.html
+    - text: "Teaching and Publishing"
+      href: teaching and publishing.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Education"
+      href: education.html
   right:
     - icon: "twitter"
       href: https://twitter.com/mjhendrickson
@@ -15,6 +19,3 @@ navbar:
       href: https://www.linkedin.com/in/matthewjhendrickson/
     - icon: "github"
       href: https://github.com/mjhendrickson
-output:
-  html_document:
-    theme: paper
