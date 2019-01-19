@@ -13,9 +13,9 @@ navbar:
     - text: "Education"
       href: education.html
   right:
-    - icon: "twitter"
+    - icon: "images/twitter_black"
       href: https://twitter.com/mjhendrickson
-    - icon: "linkedin"
+    - icon: "images/linkedin/black"
       href: https://www.linkedin.com/in/matthewjhendrickson/
-    - icon: "github"
+    - icon: "images/github_black"
       href: https://github.com/mjhendrickson
