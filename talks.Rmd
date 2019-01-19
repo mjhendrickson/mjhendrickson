@@ -5,6 +5,8 @@ title: "Speaking and Presentation Engagements"
 output: html_document
 ---
 
+
+
 **Hendrickson, M.J.** (2018, December 8). *Learning R by Doing.* Presented at the SatRdays DC Conference. Washington, DC. [link](http://bit.ly/satRday2018mh)
 
 **Hendrickson, M.J.** (2014, May 27). *US Privacy Laws & the Prospects of Updating Them.* Presented to the Gartner Privacy Research Community. [link]
