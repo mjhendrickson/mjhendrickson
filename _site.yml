@@ -6,3 +6,15 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Talks"
+      href: talks.html
+  right:
+    - icon: "twitter"
+      href: https://twitter.com/mjhendrickson
+    - icon: "linkedin"
+      href: https://www.linkedin.com/in/matthewjhendrickson/
+    - icon: "github"
+      href: https://github.com/mjhendrickson
+output:
+  html_document:
+    theme: paper
