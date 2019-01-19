@@ -5,4 +5,10 @@ date: "January 19, 2019"
 output: html_document
 ---
 
-Hello, Website!
+Hi, I'm Matt.
+
+I'm a research and analytics leader skilled in customized research, marketing analytics, policy analysis and development, data privacy, statistical modeling, Institutional Research, and Strategic Enrollment Management.
+
+I seek to gain efficiencies in business processes by utilizing research and analytics methods. Through data informed strategy and project management, I have developed cost and time saving strategies that yield easy to implement, manage, and understand. My inherent love and quick adoption of new technologies allows for the selection of the best tool for each project.
+
+Current professional projects: retention, graduation, registrar, and student affairs analytics to drive data-driven decision making.
