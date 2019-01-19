@@ -4,7 +4,7 @@ title: "Speaking and Presentation Engagements"
 # date: "January 19, 2019"
 output: html_document
 ---
-
+   
 
 
 **Hendrickson, M.J.** (2018, December 8). *Learning R by Doing.* Presented at the SatRdays DC Conference. Washington, DC. [link](http://bit.ly/satRday2018mh)

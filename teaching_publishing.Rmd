@@ -4,13 +4,13 @@ title: "Teaching and Publishing"
 # date: "January 19, 2019"
 output: html_document
 ---
-
+   
 
 
 ## Teaching
 
 *EDU 6347: Introduction to Data Mining in Education (through Northeastern University)*; Developed the required course for MED. and Graduate Certificate students. Utilized the CRISP-DM research methodology to teach data mining. Instructed the students on a term-long data mining project that was included in their MED. digital professional portfolio.
-
+   
 
 
 ## Publication

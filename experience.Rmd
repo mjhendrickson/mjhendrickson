@@ -4,7 +4,7 @@ title: "Experience"
 # date: "January 19, 2019"
 output: html_document
 ---
-
+   
 
 
 ## HelioCampus, Inc.  
@@ -17,7 +17,7 @@ June 2016 - Present
 * Collaborate with and advise senior leadership on strategic initiatives and policies
 * Determine and construct optimal technology and analytics solutions to drive and monitor strategic opportunities
 * Facilitate a data-driven approach to decision making
-
+   
 
 
 ## Self-Employed  
@@ -28,12 +28,12 @@ February 2012 - Present
 * Building reporting pipelines and analytics solutions for a major academic publisher
 * Coach and mentor doctoral students on research, analytics, and doctoral defense
 * Teach statistical interpretation of analytics results
-
+   
 
 
 ## Northeastern University  
 Boston MA  
-
+   
 
 
 ### D’Amore-McKim School of Business   
@@ -45,7 +45,7 @@ August 2014 - June 2016
 * Created efficiencies in marketing efforts through data management, data mining, segmentation, SEO, paid search campaign strategy, and analysis of the marketing and recruitment funnel
 * Championed adoption of Marketo and Salesforce within the marketing and sales processes
 * Continually tested and improved data collection methods and channels
-
+   
 
 
 ### College of Professional Studies  
@@ -56,7 +56,7 @@ April 2016 - July 2016
 * Taught the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology
 * Instructed students on data selection, importing, cleaning, exploration, validation, transformation, modeling, and analysis, as well as evaluation and deployment of models
 * Guided students through a hands-on digital portfolio project
-
+   
 
 
 ### College of Professional Studies  
@@ -69,7 +69,7 @@ June 2011 - August 2014
 * Provided institutional reporting, strategic data analysis, ad-hoc analysis, predictive analytics, data mining, and custom research in line with college goals
 * Routinely served and lead institutional improvement committees
 * Identified data needs, inconsistencies, and future data collection targets
-
+   
 
 
 ### Bentley University  
