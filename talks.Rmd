@@ -11,17 +11,17 @@ output: html_document
 
 **Hendrickson, M.J.** (2014, May 27). *US Privacy Laws & the Prospects of Updating Them.* Presented to the Gartner Privacy Research Community.
 
-**Hendrickson. M.J.** (2014, April 16). *The Digital Expectation of Privacy: Recommendations and Compromises to Updating Existing Privacy Law.* Doctoral thesis defense presented to the public.
+**Hendrickson. M.J.** (2014, April 16). *The Digital Expectation of Privacy: Recommendations and Compromises to Updating Existing Privacy Law.* Doctoral thesis defense presented to the public. [link](http://bit.ly/hendrickson_defense)
 
-**Hendrickson, M.J.** (2013, November 7). Invited Keynote Address: *Lighting the Path to Action: Realizing the Power of Storytelling.* Presented at the Mid-America Association for Institutional Research’s Annual Conference. Kansas City, MO. [link](http://www.slideshare.net/mjhendrickson/midair-2013-keynote-lighting-the-path-to-action-st)
+**Hendrickson, M.J.** (2013, November 7). Invited Keynote Address: *Lighting the Path to Action: Realizing the Power of Storytelling.* Presented at the Mid-America Association for Institutional Research’s Annual Conference. Kansas City, MO. [link](http://bit.ly/hendrickson_midair_keynote)
 
-Denison, R. & **Hendrickson, M.J.** (2013, October 24). *Square Peg, Round Hole: Developing Student Retention Models in Programs Designed for Adult Learners.* Presented at the University Professional & Continuing Education Association – New England’s Annual Conference. Ogunquit, ME. [link](http://www.slideshare.net/slideshow/embed_code/27760275)
+Denison, R. & **Hendrickson, M.J.** (2013, October 24). *Square Peg, Round Hole: Developing Student Retention Models in Programs Designed for Adult Learners.* Presented at the University Professional & Continuing Education Association – New England’s Annual Conference. Ogunquit, ME. [link](http://bit.ly/hendrickson_upcea)
 
-**Hendrickson, M.J.** & Woosley, S. (2013, May 20). *Data Geek to Storyteller: Gaining Consensus Through Storytelling.* Presented at the Association for Institutional Research’s 53rd Annual Conference. Long Beach, CA. [link](http://www.slideshare.net/mjhendrickson/air-2013-data-geek-to-storyteller)
+**Hendrickson, M.J.** & Woosley, S. (2013, May 20). *Data Geek to Storyteller: Gaining Consensus Through Storytelling.* Presented at the Association for Institutional Research’s 53rd Annual Conference. Long Beach, CA. [link](http://bit.ly/hendrickson_air2013)
 
-**Hendrickson, M.J.** (2012, June 5). *Building a Continuing Education Enrollment and Retention Model from Scratch.* Presented at the Association for Institutional Research’s 52nd Annual Conference. New Orleans, LA. [link](http://www.slideshare.net/mjhendrickson/air-2012-enrollment-retention-06052012)
+**Hendrickson, M.J.** (2012, June 5). *Building a Continuing Education Enrollment and Retention Model from Scratch.* Presented at the Association for Institutional Research’s 52nd Annual Conference. New Orleans, LA. [link](http://bit.ly/hendrickson_air2012)
 
-**Hendrickson, M.J.** & Tibert, B. (2010, November 16). *Social Network Analysis and Interstate Mobility.* Presented at the Northeast Association for Institutional Research’s 37th Annual Conference. Saratoga Springs, NY. [link](https://www.slideshare.net/mjhendrickson/social-network-analysis-and-interstate-mobility)
+**Hendrickson, M.J.** & Tibert, B. (2010, November 16). *Social Network Analysis and Interstate Mobility.* Presented at the Northeast Association for Institutional Research’s 37th Annual Conference. Saratoga Springs, NY. [link](http://bit.ly/neair_2010)
 
 **Hendrickson, M.J.** (2007, March 27). *Understanding the U.S. News & World Report “Best Colleges” 2007: How it Works, Problems, and Implications for Institutional Research.* Poster presented at the Ball State University’s Student Symposium. Muncie, IN.
 
