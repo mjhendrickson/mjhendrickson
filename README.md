@@ -1,2 +1,2 @@
 # mjhendrickson
-Repository for personal website
+mjhendrickson.github.io
